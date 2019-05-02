@@ -1,0 +1,2083 @@
+,Round,Team,Year
+0,6,Lehigh,85
+1,6,Iona,85
+2,6,Old Dominion,85
+3,6,Virginia Tech,85
+4,6,North Carolina A&T,85
+5,6,Iowa State,85
+6,6,Pittsburgh,85
+7,6,Southern California,85
+8,6,Middle Tennessee State,85
+9,6,Ohio,85
+10,6,Oregon State,85
+11,6,Purdue,85
+12,6,Southern,85
+13,6,San Diego State,85
+14,6,Iowa,85
+15,6,Washington,85
+16,6,Mercer,85
+17,6,Northeastern,85
+18,6,Wichita State,85
+19,6,DePaul,85
+20,6,Pennsylvania,85
+21,6,Pepperdine,85
+22,6,Michigan State,85
+23,6,Texas Tech,85
+24,6,Fairleigh Dickinson,85
+25,6,"Miami, Ohio",85
+26,6,Dayton,85
+27,6,Louisiana State,85
+28,6,Marshall,85
+29,6,Nevada,85
+30,6,Arizona,85
+31,6,Tulsa,85
+32,5,Temple,85
+33,5,Southern Methodist,85
+34,5,Illinois State,85
+35,5,Ohio State,85
+36,5,Notre Dame,85
+37,5,Kansas,85
+38,5,Arkansas,85
+39,5,Nevada-Las Vegas,85
+40,5,Syracuse,85
+41,5,Georgia,85
+42,5,UAB,85
+43,5,Duke,85
+44,5,Navy,85
+45,5,Michigan,85
+46,5,Texas-El Paso,85
+47,5,Virginia Commonwealth,85
+48,4,"Loyola, Illinois",85
+49,4,Illinois,85
+50,4,Louisiana Tech,85
+51,4,Boston College,85
+52,4,Auburn,85
+53,4,Maryland,85
+54,4,Kentucky,85
+55,4,Alabama,85
+56,3,Georgia Tech,85
+57,3,Oklahoma,85
+58,3,North Carolina,85
+59,3,North Carolina State,85
+60,2,"St. John's, New York",85
+61,2,Memphis,85
+62,1,Georgetown,85
+63,0,Villanova,85
+64,6,Mississippi Valley,86
+65,6,Northeastern,86
+66,6,West Virginia,86
+67,6,Virginia,86
+68,6,North Carolina A&T,86
+69,6,Texas Tech,86
+70,6,Washington,86
+71,6,Jacksonville,86
+72,6,Marist,86
+73,6,Ball State,86
+74,6,Virginia Tech,86
+75,6,Purdue,86
+76,6,Drexel,86
+77,6,Utah,86
+78,6,Missouri,86
+79,6,Texas-El Paso,86
+80,6,Brown,86
+81,6,Richmond,86
+82,6,Tulsa,86
+83,6,Indiana,86
+84,6,Akron,86
+85,6,Iowa,86
+86,6,"Miami, Ohio",86
+87,6,Notre Dame,86
+88,6,Davidson,86
+89,6,Fairfield,86
+90,6,"Xavier, Ohio",86
+91,6,Nebraska,86
+92,6,Montana State,86
+93,6,Louisiana-Monroe,86
+94,6,Pepperdine,86
+95,6,Arizona,86
+96,5,Old Dominion,86
+97,5,Oklahoma,86
+98,5,Temple,86
+99,5,Georgetown,86
+100,5,Villanova,86
+101,5,Memphis,86
+102,5,Bradley,86
+103,5,UAB,86
+104,5,Syracuse,86
+105,5,"St. Joseph's, Pennsylvania",86
+106,5,Arkansas-Little Rock,86
+107,5,Michigan,86
+108,5,Western Kentucky,86
+109,5,Illinois,86
+110,5,Maryland,86
+111,5,"St. John's, New York",86
+112,4,Alabama,86
+113,4,Georgia Tech,86
+114,4,North Carolina,86
+115,4,Nevada-Las Vegas,86
+116,4,DePaul,86
+117,4,Cleveland State,86
+118,4,Michigan State,86
+119,4,Iowa State,86
+120,3,Kentucky,86
+121,3,Auburn,86
+122,3,Navy,86
+123,3,North Carolina State,86
+124,2,Kansas,86
+125,2,Louisiana State,86
+126,1,Duke,86
+127,0,Louisville,86
+128,6,Pennsylvania,87
+129,6,Marshall,87
+130,6,Middle Tennessee State,87
+131,6,Navy,87
+132,6,Fairfield,87
+133,6,Texas A&M,87
+134,6,San Diego,87
+135,6,Missouri,87
+136,6,North Carolina A&T,87
+137,6,UAB,87
+138,6,Brigham Young,87
+139,6,Illinois,87
+140,6,Idaho State,87
+141,6,Central Michigan,87
+142,6,Georgia,87
+143,6,Virginia,87
+144,6,Georgia Southern,87
+145,6,Northeastern,87
+146,6,North Carolina State,87
+147,6,West Virginia,87
+148,6,Southern,87
+149,6,Louisiana Tech,87
+150,6,Wichita State,87
+151,6,Georgia Tech,87
+152,6,Bucknell,87
+153,6,Houston,87
+154,6,Kentucky,87
+155,6,Clemson,87
+156,6,Santa Clara,87
+157,6,Marist,87
+158,6,Tulsa,87
+159,6,Arizona,87
+160,5,Michigan,87
+161,5,Texas Christian,87
+162,5,Auburn,87
+163,5,"Xavier, Ohio",87
+164,5,New Orleans,87
+165,5,Austin Peay,87
+166,5,Kansas State,87
+167,5,UCLA,87
+168,5,Western Kentucky,87
+169,5,Purdue,87
+170,5,"St. John's, New York",87
+171,5,Temple,87
+172,5,Ohio State,87
+173,5,Missouri State,87
+174,5,Texas-El Paso,87
+175,5,Pittsburgh,87
+176,4,Notre Dame,87
+177,4,Florida,87
+178,4,Kansas,87
+179,4,Alabama,87
+180,4,Duke,87
+181,4,DePaul,87
+182,4,Wyoming,87
+183,4,Oklahoma,87
+184,3,North Carolina,87
+185,3,Georgetown,87
+186,3,Louisiana State,87
+187,3,Iowa,87
+188,2,Nevada-Las Vegas,87
+189,2,Providence,87
+190,1,Syracuse,87
+191,0,Indiana,87
+192,6,Boston,88
+193,6,North Carolina A&T,88
+194,6,Notre Dame,88
+195,6,Missouri,88
+196,6,Fairleigh Dickinson,88
+197,6,La Salle,88
+198,6,Wichita State,88
+199,6,Baylor,88
+200,6,Chattanooga,88
+201,6,Charlotte,88
+202,6,Oregon State,88
+203,6,Bradley,88
+204,6,North Texas,88
+205,6,Boise State,88
+206,6,"St. John's, New York",88
+207,6,Wyoming,88
+208,6,Lehigh,88
+209,6,Iowa State,88
+210,6,Louisiana State,88
+211,6,Indiana,88
+212,6,Eastern Michigan,88
+213,6,"Xavier, Ohio",88
+214,6,Utah State,88
+215,6,North Carolina State,88
+216,6,Southern,88
+217,6,Texas-San Antonio,88
+218,6,Arkansas,88
+219,6,California-Santa Barbara,88
+220,6,Cornell,88
+221,6,Missouri State,88
+222,6,Florida State,88
+223,6,Texas-El Paso,88
+224,5,Southern Methodist,88
+225,5,Syracuse,88
+226,5,Memphis,88
+227,5,DePaul,88
+228,5,Auburn,88
+229,5,Brigham Young,88
+230,5,Loyola Marymount,88
+231,5,Florida,88
+232,5,Georgetown,88
+233,5,Georgia Tech,88
+234,5,Murray State,88
+235,5,Pittsburgh,88
+236,5,Maryland,88
+237,5,Illinois,88
+238,5,Seton Hall,88
+239,5,Nevada-Las Vegas,88
+240,4,Richmond,88
+241,4,Rhode Island,88
+242,4,Louisville,88
+243,4,Kentucky,88
+244,4,Purdue,88
+245,4,Vanderbilt,88
+246,4,Iowa,88
+247,4,Michigan,88
+248,3,Temple,88
+249,3,Villanova,88
+250,3,Kansas State,88
+251,3,North Carolina,88
+252,2,Arizona,88
+253,2,Duke,88
+254,1,Oklahoma,88
+255,0,Kansas,88
+256,6,South Carolina State,89
+257,6,Tennessee,89
+258,6,Kansas State,89
+259,6,Stanford,89
+260,6,McNeese State,89
+261,6,Arkansas-Little Rock,89
+262,6,Loyola Marymount,89
+263,6,Pittsburgh,89
+264,6,East Tennessee State,89
+265,6,Providence,89
+266,6,La Salle,89
+267,6,Florida State,89
+268,6,Robert Morris,89
+269,6,Idaho,89
+270,6,"St. Mary's, California",89
+271,6,Memphis,89
+272,6,Princeton,89
+273,6,Rutgers,89
+274,6,South Carolina,89
+275,6,Vanderbilt,89
+276,6,Bucknell,89
+277,6,Creighton,89
+278,6,Florida,89
+279,6,Georgia Tech,89
+280,6,Southern,89
+281,6,"Xavier, Ohio",89
+282,6,Iowa State,89
+283,6,Alabama,89
+284,6,George Mason,89
+285,6,Missouri State,89
+286,6,Louisiana State,89
+287,6,Oregon State,89
+288,5,West Virginia,89
+289,5,Siena,89
+290,5,Ball State,89
+291,5,Arkansas,89
+292,5,Louisiana Tech,89
+293,5,Middle Tennessee State,89
+294,5,Clemson,89
+295,5,DePaul,89
+296,5,Notre Dame,89
+297,5,Iowa,89
+298,5,Colorado State,89
+299,5,Texas,89
+300,5,UCLA,89
+301,5,South Alabama,89
+302,5,Texas-El Paso,89
+303,5,Evansville,89
+304,4,North Carolina,89
+305,4,Oklahoma,89
+306,4,Indiana,89
+307,4,Arizona,89
+308,4,North Carolina State,89
+309,4,Minnesota,89
+310,4,Louisville,89
+311,4,Missouri,89
+312,3,Virginia,89
+313,3,Nevada-Las Vegas,89
+314,3,Georgetown,89
+315,3,Syracuse,89
+316,2,Illinois,89
+317,2,Duke,89
+318,1,Seton Hall,89
+319,0,Michigan,89
+320,6,Boston,90
+321,6,Southern Mississippi,90
+322,6,Brigham Young,90
+323,6,Indiana,90
+324,6,Towson,90
+325,6,Princeton,90
+326,6,Missouri State,90
+327,6,Illinois,90
+328,6,Murray State,90
+329,6,East Tennessee State,90
+330,6,Villanova,90
+331,6,Houston,90
+332,6,Arkansas-Little Rock,90
+333,6,Idaho,90
+334,6,Providence,90
+335,6,Oregon State,90
+336,6,Robert Morris,90
+337,6,Richmond,90
+338,6,Temple,90
+339,6,UAB,90
+340,6,Louisiana-Monroe,90
+341,6,Texas Southern,90
+342,6,Kansas State,90
+343,6,Georgia,90
+344,6,Coppin State,90
+345,6,Texas-El Paso,90
+346,6,Notre Dame,90
+347,6,Missouri,90
+348,6,South Florida,90
+349,6,Illinois State,90
+350,6,Colorado State,90
+351,6,New Mexico State,90
+352,5,California,90
+353,5,La Salle,90
+354,5,Dayton,90
+355,5,Oklahoma,90
+356,5,California-Santa Barbara,90
+357,5,Louisiana State,90
+358,5,Ohio State,90
+359,5,Louisville,90
+360,5,"St. John's, New York",90
+361,5,Kansas,90
+362,5,Georgetown,90
+363,5,Purdue,90
+364,5,Virginia,90
+365,5,Northern Iowa,90
+366,5,Arizona,90
+367,5,Michigan,90
+368,4,Clemson,90
+369,4,UCLA,90
+370,4,North Carolina,90
+371,4,"Xavier, Ohio",90
+372,4,Michigan State,90
+373,4,Syracuse,90
+374,4,Ball State,90
+375,4,Alabama,90
+376,3,Connecticut,90
+377,3,Texas,90
+378,3,Minnesota,90
+379,3,Loyola Marymount,90
+380,2,Georgia Tech,90
+381,2,Arkansas,90
+382,1,Duke,90
+383,0,Nevada-Las Vegas,90
+384,6,New Mexico,91
+385,6,Southern Mississippi,91
+386,6,Purdue,91
+387,6,Syracuse,91
+388,6,Louisiana-Monroe,91
+389,6,East Tennessee State,91
+390,6,Louisiana State,91
+391,6,Nebraska,91
+392,6,Coastal Carolina,91
+393,6,New Orleans,91
+394,6,Georgia,91
+395,6,Southern California,91
+396,6,"St. Francis, Pennsylvania",91
+397,6,Pepperdine,91
+398,6,Virginia,91
+399,6,New Mexico State,91
+400,6,Northeastern,91
+401,6,Princeton,91
+402,6,Mississippi State,91
+403,6,UCLA,91
+404,6,Towson,91
+405,6,Northern Illinois,91
+406,6,St. Peter's,91
+407,6,DePaul,91
+408,6,Georgia State,91
+409,6,Murray State,91
+410,6,Louisiana Tech,91
+411,6,Rutgers,91
+412,6,Montana,91
+413,6,South Alabama,91
+414,6,Green Bay,91
+415,6,Vanderbilt,91
+416,5,North Carolina State,91
+417,5,Richmond,91
+418,5,Iowa,91
+419,5,"Xavier, Ohio",91
+420,5,Florida State,91
+421,5,Pittsburgh,91
+422,5,Brigham Young,91
+423,5,Creighton,91
+424,5,Villanova,91
+425,5,Pennsylvania State,91
+426,5,Georgia Tech,91
+427,5,Texas,91
+428,5,Arizona State,91
+429,5,Wake Forest,91
+430,5,Georgetown,91
+431,5,Michigan State,91
+432,4,Alabama,91
+433,4,Indiana,91
+434,4,Utah,91
+435,4,Arizona,91
+436,4,Eastern Michigan,91
+437,4,Oklahoma State,91
+438,4,Connecticut,91
+439,4,Ohio State,91
+440,3,Arkansas,91
+441,3,Seton Hall,91
+442,3,Temple,91
+443,3,"St. John's, New York",91
+444,2,Nevada-Las Vegas,91
+445,2,North Carolina,91
+446,1,Kansas,91
+447,0,Duke,91
+448,6,Campbell,92
+449,6,La Salle,92
+450,6,West Virginia,92
+451,6,Texas,92
+452,6,Louisiana-Monroe,92
+453,6,Murray State,92
+454,6,Pepperdine,92
+455,6,Houston,92
+456,6,Mississippi Valley,92
+457,6,"Miami, Ohio",92
+458,6,Stanford,92
+459,6,Nebraska,92
+460,6,Eastern Illinois,92
+461,6,Montana,92
+462,6,South Florida,92
+463,6,Brigham Young,92
+464,6,Old Dominion,92
+465,6,Fordham,92
+466,6,Princeton,92
+467,6,Charlotte,92
+468,6,Howard,92
+469,6,Delaware,92
+470,6,Missouri State,92
+471,6,Evansville,92
+472,6,Georgia Southern,92
+473,6,Temple,92
+474,6,"St. John's, New York",92
+475,6,Arizona,92
+476,6,Robert Morris,92
+477,6,Wake Forest,92
+478,6,DePaul,92
+479,6,Oklahoma,92
+480,5,Iowa,92
+481,5,Missouri,92
+482,5,Arkansas,92
+483,5,Southern California,92
+484,5,Connecticut,92
+485,5,Alabama,92
+486,5,Louisiana State,92
+487,5,Georgetown,92
+488,5,Iowa State,92
+489,5,Syracuse,92
+490,5,Michigan State,92
+491,5,Kansas,92
+492,5,Tulane,92
+493,5,East Tennessee State,92
+494,5,Louisville,92
+495,5,Louisiana-Lafayette,92
+496,4,Seton Hall,92
+497,4,Massachusetts,92
+498,4,New Mexico State,92
+499,4,Florida State,92
+500,4,Texas-El Paso,92
+501,4,Georgia Tech,92
+502,4,North Carolina,92
+503,4,Oklahoma State,92
+504,3,Kentucky,92
+505,3,UCLA,92
+506,3,Memphis,92
+507,3,Ohio State,92
+508,2,Indiana,92
+509,2,Cincinnati,92
+510,1,Michigan,92
+511,0,Duke,92
+512,6,East Carolina,93
+513,6,Holy Cross,93
+514,6,Texas Tech,93
+515,6,Purdue,93
+516,6,Ball State,93
+517,6,Southern Illinois,93
+518,6,Louisiana State,93
+519,6,Southern Methodist,93
+520,6,Tennessee State,93
+521,6,Evansville,93
+522,6,Memphis,93
+523,6,Kansas State,93
+524,6,Boise State,93
+525,6,Long Beach State,93
+526,6,Missouri,93
+527,6,Arizona,93
+528,6,Coppin State,93
+529,6,Pennsylvania,93
+530,6,Manhattan,93
+531,6,Nebraska,93
+532,6,Wright State,93
+533,6,Delaware,93
+534,6,Marquette,93
+535,6,New Orleans,93
+536,6,Rider,93
+537,6,Louisiana-Monroe,93
+538,6,Chattanooga,93
+539,6,Pittsburgh,93
+540,6,Coastal Carolina,93
+541,6,Iowa State,93
+542,6,New Mexico,93
+543,6,Georgia Tech,93
+544,5,Rhode Island,93
+545,5,"St. John's, New York",93
+546,5,Brigham Young,93
+547,5,Duke,93
+548,5,Tulane,93
+549,5,Seton Hall,93
+550,5,Illinois,93
+551,5,Santa Clara,93
+552,5,New Mexico State,93
+553,5,Massachusetts,93
+554,5,"Xavier, Ohio",93
+555,5,Oklahoma State,93
+556,5,Utah,93
+557,5,Iowa,93
+558,5,UCLA,93
+559,5,Southern,93
+560,4,Louisville,93
+561,4,California,93
+562,4,Wake Forest,93
+563,4,Western Kentucky,93
+564,4,Arkansas,93
+565,4,Virginia,93
+566,4,George Washington,93
+567,4,Vanderbilt,93
+568,3,Indiana,93
+569,3,Florida State,93
+570,3,Cincinnati,93
+571,3,Temple,93
+572,2,Kansas,93
+573,2,Kentucky,93
+574,1,Michigan,93
+575,0,North Carolina,93
+576,6,Rider,94
+577,6,James Madison,94
+578,6,UAB,94
+579,6,Nebraska,94
+580,6,Texas State,94
+581,6,Pepperdine,94
+582,6,Western Kentucky,94
+583,6,St. Louis,94
+584,6,Central Florida,94
+585,6,Chattanooga,94
+586,6,"Charleston, South Carolina",94
+587,6,Providence,94
+588,6,Navy,94
+589,6,Hawaii,94
+590,6,Cincinnati,94
+591,6,California,94
+592,6,Liberty,94
+593,6,Drexel,94
+594,6,Ohio,94
+595,6,Washington State,94
+596,6,North Carolina A&T,94
+597,6,New Mexico State,94
+598,6,Illinois,94
+599,6,UCLA,94
+600,6,Texas Southern,94
+601,6,Tennessee State,94
+602,6,Louisiana-Lafayette,94
+603,6,Seton Hall,94
+604,6,"Loyola, Maryland",94
+605,6,Boise State,94
+606,6,Southern Illinois,94
+607,6,New Mexico,94
+608,5,George Washington,94
+609,5,Pennsylvania,94
+610,5,Texas,94
+611,5,Massachusetts,94
+612,5,Alabama,94
+613,5,Wake Forest,94
+614,5,Wisconsin,94
+615,5,Green Bay,94
+616,5,Temple,94
+617,5,North Carolina,94
+618,5,Georgetown,94
+619,5,Oklahoma State,94
+620,5,Michigan State,94
+621,5,Kentucky,94
+622,5,Virginia,94
+623,5,Minnesota,94
+624,4,Kansas,94
+625,4,Marquette,94
+626,4,Syracuse,94
+627,4,Louisville,94
+628,4,Connecticut,94
+629,4,Indiana,94
+630,4,Tulsa,94
+631,4,Maryland,94
+632,3,Purdue,94
+633,3,Missouri,94
+634,3,Boston College,94
+635,3,Michigan,94
+636,2,Arizona,94
+637,2,Florida,94
+638,1,Duke,94
+639,0,Arkansas,94
+640,6,North Carolina A&T,95
+641,6,Drexel,95
+642,6,Pennsylvania,95
+643,6,Minnesota,95
+644,6,Colgate,95
+645,6,Nicholls State,95
+646,6,Michigan,95
+647,6,Arizona,95
+648,6,"Mt. St. Mary's, Maryland",95
+649,6,Ball State,95
+650,6,Brigham Young,95
+651,6,Oklahoma,95
+652,6,Chattanooga,95
+653,6,Gonzaga,95
+654,6,Temple,95
+655,6,Oregon,95
+656,6,St. Peter's,95
+657,6,Illinois,95
+658,6,Charlotte,95
+659,6,Villanova,95
+660,6,Texas Southern,95
+661,6,Green Bay,95
+662,6,Louisville,95
+663,6,Southern Illinois,95
+664,6,Murray State,95
+665,6,"Xavier, Ohio",95
+666,6,Florida,95
+667,6,Michigan State,95
+668,6,Florida International,95
+669,6,Long Beach State,95
+670,6,Santa Clara,95
+671,6,Indiana,95
+672,5,St. Louis,95
+673,5,Alabama,95
+674,5,Western Kentucky,95
+675,5,"Miami, Ohio",95
+676,5,Tulane,95
+677,5,Manhattan,95
+678,5,Cincinnati,95
+679,5,Texas,95
+680,5,Stanford,95
+681,5,Old Dominion,95
+682,5,Syracuse,95
+683,5,Purdue,95
+684,5,Iowa State,95
+685,5,Weber State,95
+686,5,Missouri,95
+687,5,Utah,95
+688,4,Arizona State,95
+689,4,Georgetown,95
+690,4,Mississippi State,95
+691,4,Maryland,95
+692,4,Tulsa,95
+693,4,Wake Forest,95
+694,4,Memphis,95
+695,4,Kansas,95
+696,3,Kentucky,95
+697,3,Connecticut,95
+698,3,Massachusetts,95
+699,3,Virginia,95
+700,2,Oklahoma State,95
+701,2,North Carolina,95
+702,1,Arkansas,95
+703,0,UCLA,95
+704,6,Central Florida,96
+705,6,"Monmouth, New Jersey",96
+706,6,Bradley,96
+707,6,Pennsylvania State,96
+708,6,San Jose State,96
+709,6,Canisius,96
+710,6,California,96
+711,6,Green Bay,96
+712,6,Colgate,96
+713,6,Virginia Commonwealth,96
+714,6,Duke,96
+715,6,UCLA,96
+716,6,Western Carolina,96
+717,6,Montana State,96
+718,6,Clemson,96
+719,6,Memphis,96
+720,6,Mississippi Valley,96
+721,6,Northern Illinois,96
+722,6,New Orleans,96
+723,6,Kansas State,96
+724,6,Louisiana-Monroe,96
+725,6,Portland,96
+726,6,Tulsa,96
+727,6,Michigan,96
+728,6,North Carolina-Greensboro,96
+729,6,Austin Peay,96
+730,6,Oklahoma,96
+731,6,Indiana,96
+732,6,South Carolina State,96
+733,6,Valparaiso,96
+734,6,George Washington,96
+735,6,Maryland,96
+736,5,Stanford,96
+737,5,Marquette,96
+738,5,Virginia Tech,96
+739,5,Iowa State,96
+740,5,Eastern Michigan,96
+741,5,Princeton,96
+742,5,Drexel,96
+743,5,Purdue,96
+744,5,New Mexico,96
+745,5,North Carolina,96
+746,5,Texas,96
+747,5,Villanova,96
+748,5,Temple,96
+749,5,Boston College,96
+750,5,Santa Clara,96
+751,5,Iowa,96
+752,4,Arkansas,96
+753,4,Texas Tech,96
+754,4,Utah,96
+755,4,Louisville,96
+756,4,Georgia Tech,96
+757,4,Connecticut,96
+758,4,Arizona,96
+759,4,Georgia,96
+760,3,Georgetown,96
+761,3,Wake Forest,96
+762,3,Cincinnati,96
+763,3,Kansas,96
+764,2,Massachusetts,96
+765,2,Mississippi State,96
+766,1,Syracuse,96
+767,0,Kentucky,96
+768,6,Fairfield,97
+769,6,Long Island-Brooklyn,97
+770,6,Princeton,97
+771,6,Indiana,97
+772,6,Charleston Southern,97
+773,6,Butler,97
+774,6,Illinois State,97
+775,6,Vanderbilt,97
+776,6,Jackson State,97
+777,6,South Alabama,97
+778,6,Rhode Island,97
+779,6,Maryland,97
+780,6,Montana,97
+781,6,"Pacific, California",97
+782,6,Valparaiso,97
+783,6,Virginia,97
+784,6,Old Dominion,97
+785,6,Massachusetts,97
+786,6,Wisconsin,97
+787,6,South Carolina,97
+788,6,Texas State,97
+789,6,"Miami, Ohio",97
+790,6,Boston,97
+791,6,Mississippi,97
+792,6,Murray State,97
+793,6,Southern California,97
+794,6,Marquette,97
+795,6,Georgia,97
+796,6,Navy,97
+797,6,"St. Mary's, California",97
+798,6,Oklahoma,97
+799,6,Georgetown,97
+800,5,Colorado,97
+801,5,Villanova,97
+802,5,"Xavier, Ohio",97
+803,5,Cincinnati,97
+804,5,Purdue,97
+805,5,"Charleston, South Carolina",97
+806,5,Iowa,97
+807,5,Boston College,97
+808,5,New Mexico,97
+809,5,Coppin State,97
+810,5,Temple,97
+811,5,Tulsa,97
+812,5,Duke,97
+813,5,Illinois,97
+814,5,Charlotte,97
+815,5,Wake Forest,97
+816,4,Clemson,97
+817,4,Iowa State,97
+818,4,"St. Joseph's, Pennsylvania",97
+819,4,Stanford,97
+820,4,California,97
+821,4,Texas,97
+822,4,Kansas,97
+823,4,Chattanooga,97
+824,3,UCLA,97
+825,3,Utah,97
+826,3,Louisville,97
+827,3,Providence,97
+828,2,Minnesota,97
+829,2,North Carolina,97
+830,1,Kentucky,97
+831,0,Arizona,97
+832,6,Navy,98
+833,6,Fairleigh Dickinson,98
+834,6,Eastern Michigan,98
+835,6,Nevada-Las Vegas,98
+836,6,Oklahoma,98
+837,6,Illinois-Chicago,98
+838,6,"Xavier, Ohio",98
+839,6,South Carolina,98
+840,6,Nicholls State,98
+841,6,Northern Arizona,98
+842,6,San Francisco,98
+843,6,Utah State,98
+844,6,South Alabama,98
+845,6,Nebraska,98
+846,6,Tennessee,98
+847,6,Temple,98
+848,6,Prairie View,98
+849,6,Delaware,98
+850,6,"Charleston, South Carolina",98
+851,6,Murray State,98
+852,6,"St. John's, New York",98
+853,6,Clemson,98
+854,6,Texas Christian,98
+855,6,Mississippi,98
+856,6,Radford,98
+857,6,South Carolina State,98
+858,6,Davidson,98
+859,6,Butler,98
+860,6,Iona,98
+861,6,"Miami, Florida",98
+862,6,George Washington,98
+863,6,Massachusetts,98
+864,5,Charlotte,98
+865,5,Indiana,98
+866,5,Princeton,98
+867,5,Richmond,98
+868,5,Illinois State,98
+869,5,Arkansas,98
+870,5,Illinois,98
+871,5,Cincinnati,98
+872,5,Detroit,98
+873,5,Western Michigan,98
+874,5,Kansas,98
+875,5,Florida State,98
+876,5,Oklahoma State,98
+877,5,St. Louis,98
+878,5,New Mexico,98
+879,5,Michigan,98
+880,4,Michigan State,98
+881,4,Washington,98
+882,4,Maryland,98
+883,4,West Virginia,98
+884,4,Purdue,98
+885,4,Valparaiso,98
+886,4,Syracuse,98
+887,4,UCLA,98
+888,3,Connecticut,98
+889,3,Arizona,98
+890,3,Rhode Island,98
+891,3,Duke,98
+892,2,Stanford,98
+893,2,North Carolina,98
+894,1,Utah,98
+895,0,Kentucky,98
+896,6,Winthrop,99
+897,6,Valparaiso,99
+898,6,Samford,99
+899,6,Murray State,99
+900,6,George Washington,99
+901,6,Syracuse,99
+902,6,Louisville,99
+903,6,UCLA,99
+904,6,Texas-San Antonio,99
+905,6,Alcorn State,99
+906,6,Siena,99
+907,6,UAB,99
+908,6,Pennsylvania,99
+909,6,Missouri,99
+910,6,Minnesota,99
+911,6,North Carolina,99
+912,6,Florida A&M,99
+913,6,Lafayette,99
+914,6,George Mason,99
+915,6,Delaware,99
+916,6,Kent State,99
+917,6,"Charleston, South Carolina",99
+918,6,Texas,99
+919,6,Wisconsin,99
+920,6,"Mt. St. Mary's, Maryland",99
+921,6,Arkansas State,99
+922,6,New Mexico State,99
+923,6,Rhode Island,99
+924,6,Evansville,99
+925,6,Villanova,99
+926,6,Washington,99
+927,6,Arizona,99
+928,5,Oklahoma State,99
+929,5,Creighton,99
+930,5,Indiana,99
+931,5,Detroit,99
+932,5,New Mexico,99
+933,5,Arkansas,99
+934,5,Weber State,99
+935,5,Stanford,99
+936,5,Tulsa,99
+937,5,Cincinnati,99
+938,5,"Miami, Florida",99
+939,5,Tennessee,99
+940,5,Mississippi,99
+941,5,Kansas,99
+942,5,Utah,99
+943,5,Charlotte,99
+944,4,Maryland,99
+945,4,Auburn,99
+946,4,Iowa,99
+947,4,Florida,99
+948,4,Missouri State,99
+949,4,Purdue,99
+950,4,Oklahoma,99
+951,4,"Miami, Ohio",99
+952,3,"St. John's, New York",99
+953,3,Gonzaga,99
+954,3,Temple,99
+955,3,Kentucky,99
+956,2,Michigan State,99
+957,2,Ohio State,99
+958,1,Duke,99
+959,0,Connecticut,99
+960,6,Valparaiso,00
+961,6,Central Connecticut State,00
+962,6,Iona,00
+963,6,Samford,00
+964,6,St. Bonaventure,00
+965,6,Ball State,00
+966,6,Creighton,00
+967,6,St. Louis,00
+968,6,Jackson State,00
+969,6,Northern Arizona,00
+970,6,Winthrop,00
+971,6,Southeast Missouri State,00
+972,6,Indiana State,00
+973,6,Dayton,00
+974,6,Fresno State,00
+975,6,Louisville,00
+976,6,Lamar,00
+977,6,Lafayette,00
+978,6,Hofstra,00
+979,6,Pennsylvania,00
+980,6,Butler,00
+981,6,DePaul,00
+982,6,Oregon,00
+983,6,Indiana,00
+984,6,South Carolina State,00
+985,6,North Carolina-Wilmington,00
+986,6,Appalachian State,00
+987,6,Louisiana-Lafayette,00
+988,6,Utah State,00
+989,6,Arkansas,00
+990,6,Nevada-Las Vegas,00
+991,6,Missouri,00
+992,5,Utah,00
+993,5,Auburn,00
+994,5,Kentucky,00
+995,5,Maryland,00
+996,5,Texas,00
+997,5,Oklahoma,00
+998,5,Arizona,00
+999,5,"St. John's, New York",00
+1000,5,Kansas,00
+1001,5,Pepperdine,00
+1002,5,Illinois,00
+1003,5,Temple,00
+1004,5,Connecticut,00
+1005,5,Ohio State,00
+1006,5,Cincinnati,00
+1007,5,Stanford,00
+1008,4,Syracuse,00
+1009,4,UCLA,00
+1010,4,Gonzaga,00
+1011,4,Louisiana State,00
+1012,4,Seton Hall,00
+1013,4,Duke,00
+1014,4,"Miami, Florida",00
+1015,4,Tennessee,00
+1016,3,Iowa State,00
+1017,3,Purdue,00
+1018,3,Oklahoma State,00
+1019,3,Tulsa,00
+1020,2,Wisconsin,00
+1021,2,North Carolina,00
+1022,1,Florida,00
+1023,0,Michigan State,00
+1024,7,Winthrop,01
+1025,6,"Monmouth, New Jersey",01
+1026,6,Holy Cross,01
+1027,6,Southern Utah,01
+1028,6,Hofstra,01
+1029,6,Oklahoma State,01
+1030,6,Creighton,01
+1031,6,Georgia,01
+1032,6,Ohio State,01
+1033,6,North Carolina-Greensboro,01
+1034,6,George Mason,01
+1035,6,Brigham Young,01
+1036,6,Georgia Tech,01
+1037,6,Arkansas,01
+1038,6,Wisconsin,01
+1039,6,Indiana,01
+1040,6,Iowa State,01
+1041,6,Northwestern State,01
+1042,6,Eastern Illinois,01
+1043,6,Iona,01
+1044,6,California State-Northridge,01
+1045,6,Hawaii,01
+1046,6,"Xavier, Ohio",01
+1047,6,Tennessee,01
+1048,6,Wake Forest,01
+1049,6,Alabama State,01
+1050,6,Princeton,01
+1051,6,Western Kentucky,01
+1052,6,Providence,01
+1053,6,California,01
+1054,6,Texas,01
+1055,6,Virginia,01
+1056,6,Oklahoma,01
+1057,5,Missouri,01
+1058,5,Iowa,01
+1059,5,Utah State,01
+1060,5,Boston College,01
+1061,5,"St. Joseph's, Pennsylvania",01
+1062,5,Georgia State,01
+1063,5,Kent State,01
+1064,5,Hampton,01
+1065,5,Charlotte,01
+1066,5,Butler,01
+1067,5,Notre Dame,01
+1068,5,Syracuse,01
+1069,5,Fresno State,01
+1070,5,North Carolina,01
+1071,5,Florida,01
+1072,5,Indiana State,01
+1073,4,UCLA,01
+1074,4,Kentucky,01
+1075,4,Cincinnati,01
+1076,4,Georgetown,01
+1077,4,Kansas,01
+1078,4,Mississippi,01
+1079,4,Gonzaga,01
+1080,4,Pennsylvania State,01
+1081,3,Southern California,01
+1082,3,Stanford,01
+1083,3,Illinois,01
+1084,3,Temple,01
+1085,2,Maryland,01
+1086,2,Michigan State,01
+1087,1,Arizona,01
+1088,0,Duke,01
+1089,7,Alcorn State,02
+1090,6,Valparaiso,02
+1091,6,Marquette,02
+1092,6,Holy Cross,02
+1093,6,Montana,02
+1094,6,Pepperdine,02
+1095,6,Western Kentucky,02
+1096,6,Winthrop,02
+1097,6,Florida Atlantic,02
+1098,6,Utah,02
+1099,6,Charlotte,02
+1100,6,Oklahoma State,02
+1101,6,Southern California,02
+1102,6,California-Santa Barbara,02
+1103,6,Davidson,02
+1104,6,Gonzaga,02
+1105,6,"Miami, Florida",02
+1106,6,Siena,02
+1107,6,Hampton,02
+1108,6,Murray State,02
+1109,6,Michigan State,02
+1110,6,"St. John's, New York",02
+1111,6,Texas Tech,02
+1112,6,McNeese State,02
+1113,6,San Diego State,02
+1114,6,Boston College,02
+1115,6,Florida,02
+1116,6,Central Connecticut State,02
+1117,6,Pennsylvania,02
+1118,6,Boston,02
+1119,6,Illinois-Chicago,02
+1120,6,Hawaii,02
+1121,6,Mississippi,02
+1122,5,Tulsa,02
+1123,5,Stanford,02
+1124,5,Wake Forest,02
+1125,5,Notre Dame,02
+1126,5,North Carolina-Wilmington,02
+1127,5,Alabama,02
+1128,5,Wyoming,02
+1129,5,Ohio State,02
+1130,5,Wisconsin,02
+1131,5,North Carolina State,02
+1132,5,Georgia,02
+1133,5,Creighton,02
+1134,5,Mississippi State,02
+1135,5,California,02
+1136,5,"Xavier, Ohio",02
+1137,5,Cincinnati,02
+1138,4,Duke,02
+1139,4,Pittsburgh,02
+1140,4,Arizona,02
+1141,4,UCLA,02
+1142,4,Kentucky,02
+1143,4,Southern Illinois,02
+1144,4,Illinois,02
+1145,4,Texas,02
+1146,3,Kent State,02
+1147,3,Missouri,02
+1148,3,Connecticut,02
+1149,3,Oregon,02
+1150,2,Kansas,02
+1151,2,Oklahoma,02
+1152,1,Indiana,02
+1153,0,Maryland,02
+1154,7,Texas Southern,03
+1155,6,South Carolina State,03
+1156,6,North Carolina State,03
+1157,6,Holy Cross,03
+1158,6,Weber State,03
+1159,6,Southern Illinois,03
+1160,6,Dayton,03
+1161,6,San Diego,03
+1162,6,Brigham Young,03
+1163,6,Vermont,03
+1164,6,Utah State,03
+1165,6,Colorado State,03
+1166,6,Western Kentucky,03
+1167,6,Milwaukee,03
+1168,6,Cincinnati,03
+1169,6,Memphis,03
+1170,6,Creighton,03
+1171,6,East Tennessee State,03
+1172,6,Manhattan,03
+1173,6,Austin Peay,03
+1174,6,Pennsylvania,03
+1175,6,"St. Joseph's, Pennsylvania",03
+1176,6,Mississippi State,03
+1177,6,IUPUI,03
+1178,6,Wagner,03
+1179,6,Alabama,03
+1180,6,Oregon,03
+1181,6,North Carolina-Asheville,03
+1182,6,Sam Houston State,03
+1183,6,Troy,03
+1184,6,North Carolina-Wilmington,03
+1185,6,Colorado,03
+1186,6,Louisiana State,03
+1187,5,California,03
+1188,5,Missouri,03
+1189,5,Tulsa,03
+1190,5,Stanford,03
+1191,5,Gonzaga,03
+1192,5,Arizona State,03
+1193,5,Central Michigan,03
+1194,5,Illinois,03
+1195,5,Oklahoma State,03
+1196,5,Wake Forest,03
+1197,5,Louisville,03
+1198,5,Utah,03
+1199,5,Indiana,03
+1200,5,Purdue,03
+1201,5,"Xavier, Ohio",03
+1202,5,Florida,03
+1203,4,Wisconsin,03
+1204,4,Pittsburgh,03
+1205,4,Notre Dame,03
+1206,4,Duke,03
+1207,4,Butler,03
+1208,4,Auburn,03
+1209,4,Connecticut,03
+1210,4,Maryland,03
+1211,3,Kentucky,03
+1212,3,Arizona,03
+1213,3,Oklahoma,03
+1214,3,Michigan State,03
+1215,2,Marquette,03
+1216,2,Texas,03
+1217,1,Kansas,03
+1218,0,Syracuse,03
+1219,7,Lehigh,04
+1220,6,Liberty,04
+1221,6,Virginia Commonwealth,04
+1222,6,Charlotte,04
+1223,6,Florida,04
+1224,6,Valparaiso,04
+1225,6,Michigan State,04
+1226,6,Alabama State,04
+1227,6,Princeton,04
+1228,6,Air Force,04
+1229,6,Arizona,04
+1230,6,Texas-San Antonio,04
+1231,6,Vermont,04
+1232,6,Texas-El Paso,04
+1233,6,Brigham Young,04
+1234,6,Dayton,04
+1235,6,Southern Illinois,04
+1236,6,Eastern Washington,04
+1237,6,Central Florida,04
+1238,6,Richmond,04
+1239,6,South Carolina,04
+1240,6,Florida A&M,04
+1241,6,Northern Iowa,04
+1242,6,Illinois-Chicago,04
+1243,6,Utah,04
+1244,6,Washington,04
+1245,6,Providence,04
+1246,6,"Monmouth, New Jersey",04
+1247,6,East Tennessee State,04
+1248,6,Murray State,04
+1249,6,Louisville,04
+1250,6,Louisiana-Lafayette,04
+1251,6,Western Michigan,04
+1252,5,Texas Tech,04
+1253,5,Manhattan,04
+1254,5,Gonzaga,04
+1255,5,Seton Hall,04
+1256,5,North Carolina,04
+1257,5,DePaul,04
+1258,5,Maryland,04
+1259,5,Stanford,04
+1260,5,Memphis,04
+1261,5,Wisconsin,04
+1262,5,Boston College,04
+1263,5,"Pacific, California",04
+1264,5,Kentucky,04
+1265,5,Cincinnati,04
+1266,5,Mississippi State,04
+1267,5,North Carolina State,04
+1268,4,Wake Forest,04
+1269,4,Pittsburgh,04
+1270,4,Vanderbilt,04
+1271,4,Syracuse,04
+1272,4,Nevada,04
+1273,4,UAB,04
+1274,4,Illinois,04
+1275,4,Texas,04
+1276,3,"St. Joseph's, Pennsylvania",04
+1277,3,Alabama,04
+1278,3,Kansas,04
+1279,3,"Xavier, Ohio",04
+1280,2,Duke,04
+1281,2,Oklahoma State,04
+1282,1,Georgia Tech,04
+1283,0,Connecticut,04
+1284,7,Alabama A&M,05
+1285,6,Fairleigh Dickinson,05
+1286,6,Utah State,05
+1287,6,Pennsylvania,05
+1288,6,Texas,05
+1289,6,Louisiana State,05
+1290,6,Alabama,05
+1291,6,Eastern Kentucky,05
+1292,6,Niagara,05
+1293,6,Texas-El Paso,05
+1294,6,Iowa,05
+1295,6,Montana,05
+1296,6,Chattanooga,05
+1297,6,Winthrop,05
+1298,6,UCLA,05
+1299,6,Creighton,05
+1300,6,Pittsburgh,05
+1301,6,Oakland,05
+1302,6,Central Florida,05
+1303,6,Ohio,05
+1304,6,New Mexico,05
+1305,6,Northern Iowa,05
+1306,6,Minnesota,05
+1307,6,Charlotte,05
+1308,6,Kansas,05
+1309,6,Southeastern Louisiana,05
+1310,6,"St. Mary's, California",05
+1311,6,Delaware State,05
+1312,6,Old Dominion,05
+1313,6,Stanford,05
+1314,6,Syracuse,05
+1315,6,Louisiana-Lafayette,05
+1316,6,George Washington,05
+1317,5,Nevada,05
+1318,5,UAB,05
+1319,5,Boston College,05
+1320,5,Cincinnati,05
+1321,5,Oklahoma,05
+1322,5,"Pacific, California",05
+1323,5,Gonzaga,05
+1324,5,Wake Forest,05
+1325,5,Iowa State,05
+1326,5,Florida,05
+1327,5,Bucknell,05
+1328,5,Connecticut,05
+1329,5,Southern Illinois,05
+1330,5,Mississippi State,05
+1331,5,Vermont,05
+1332,5,Georgia Tech,05
+1333,4,Milwaukee,05
+1334,4,Oklahoma State,05
+1335,4,Washington,05
+1336,4,Texas Tech,05
+1337,4,Villanova,05
+1338,4,North Carolina State,05
+1339,4,Utah,05
+1340,4,Duke,05
+1341,3,Arizona,05
+1342,3,West Virginia,05
+1343,3,Wisconsin,05
+1344,3,Kentucky,05
+1345,2,Michigan State,05
+1346,2,Louisville,05
+1347,1,Illinois,05
+1348,0,North Carolina,05
+1349,7,Hampton,06
+1350,6,Winthrop,06
+1351,6,Air Force,06
+1352,6,Utah State,06
+1353,6,Seton Hall,06
+1354,6,South Alabama,06
+1355,6,"Pacific, California",06
+1356,6,Oklahoma,06
+1357,6,Nevada,06
+1358,6,Southern,06
+1359,6,Iona,06
+1360,6,North Carolina-Wilmington,06
+1361,6,Syracuse,06
+1362,6,Belmont,06
+1363,6,"Xavier, Ohio",06
+1364,6,San Diego State,06
+1365,6,Marquette,06
+1366,6,Albany,06
+1367,6,Murray State,06
+1368,6,UAB,06
+1369,6,Michigan State,06
+1370,6,"Monmouth, New Jersey",06
+1371,6,Davidson,06
+1372,6,Northern Iowa,06
+1373,6,Wisconsin,06
+1374,6,Pennsylvania,06
+1375,6,Southern Illinois,06
+1376,6,California,06
+1377,6,Iowa,06
+1378,6,Oral Roberts,06
+1379,6,Kent State,06
+1380,6,Arkansas,06
+1381,6,Kansas,06
+1382,5,Illinois,06
+1383,5,Tennessee,06
+1384,5,Milwaukee,06
+1385,5,Montana,06
+1386,5,George Washington,06
+1387,5,Texas A&M,06
+1388,5,Alabama,06
+1389,5,Indiana,06
+1390,5,Kentucky,06
+1391,5,North Carolina,06
+1392,5,Arizona,06
+1393,5,Ohio State,06
+1394,5,North Carolina State,06
+1395,5,Northwestern State,06
+1396,5,Bucknell,06
+1397,5,Pittsburgh,06
+1398,4,West Virginia,06
+1399,4,Duke,06
+1400,4,Bradley,06
+1401,4,Gonzaga,06
+1402,4,Washington,06
+1403,4,Wichita State,06
+1404,4,Boston College,06
+1405,4,Georgetown,06
+1406,3,Texas,06
+1407,3,Memphis,06
+1408,3,Connecticut,06
+1409,3,Villanova,06
+1410,2,Louisiana State,06
+1411,2,George Mason,06
+1412,1,UCLA,06
+1413,0,Florida,06
+1414,7,Florida A&M,07
+1415,6,Eastern Kentucky,07
+1416,6,Belmont,07
+1417,6,Oral Roberts,07
+1418,6,George Washington,07
+1419,6,Texas Tech,07
+1420,6,Marquette,07
+1421,6,Davidson,07
+1422,6,Old Dominion,07
+1423,6,Central Connecticut State,07
+1424,6,Pennsylvania,07
+1425,6,Stanford,07
+1426,6,Brigham Young,07
+1427,6,Weber State,07
+1428,6,Wright State,07
+1429,6,Gonzaga,07
+1430,6,Duke,07
+1431,6,New Mexico State,07
+1432,6,Arkansas,07
+1433,6,Jackson State,07
+1434,6,Texas A&M-Corpus Christi,07
+1435,6,"Miami, Ohio",07
+1436,6,Georgia Tech,07
+1437,6,Arizona,07
+1438,6,Notre Dame,07
+1439,6,North Texas,07
+1440,6,Albany,07
+1441,6,Long Beach State,07
+1442,6,Creighton,07
+1443,6,Niagara,07
+1444,6,Holy Cross,07
+1445,6,Illinois,07
+1446,6,Villanova,07
+1447,5,Michigan State,07
+1448,5,Boston College,07
+1449,5,Washington State,07
+1450,5,Maryland,07
+1451,5,"Xavier, Ohio",07
+1452,5,Louisville,07
+1453,5,Indiana,07
+1454,5,Virginia Commonwealth,07
+1455,5,Texas,07
+1456,5,Purdue,07
+1457,5,Winthrop,07
+1458,5,Wisconsin,07
+1459,5,Nevada,07
+1460,5,Virginia,07
+1461,5,Kentucky,07
+1462,5,Virginia Tech,07
+1463,4,Tennessee,07
+1464,4,Texas A&M,07
+1465,4,Southern Illinois,07
+1466,4,Pittsburgh,07
+1467,4,Southern California,07
+1468,4,Vanderbilt,07
+1469,4,Butler,07
+1470,4,Nevada-Las Vegas,07
+1471,3,Memphis,07
+1472,3,Kansas,07
+1473,3,North Carolina,07
+1474,3,Oregon,07
+1475,2,UCLA,07
+1476,2,Georgetown,07
+1477,1,Ohio State,07
+1478,0,Florida,07
+1479,7,Coppin State,08
+1480,6,Winthrop,08
+1481,6,George Mason,08
+1482,6,Portland State,08
+1483,6,California State-Fullerton,08
+1484,6,Kent State,08
+1485,6,Southern California,08
+1486,6,Cornell,08
+1487,6,Oral Roberts,08
+1488,6,Temple,08
+1489,6,Kentucky,08
+1490,6,Mississippi Valley,08
+1491,6,Belmont,08
+1492,6,Georgia,08
+1493,6,Baylor,08
+1494,6,Arizona,08
+1495,6,Brigham Young,08
+1496,6,"Mt. St. Mary's, Maryland",08
+1497,6,American,08
+1498,6,Boise State,08
+1499,6,"St. Joseph's, Pennsylvania",08
+1500,6,South Alabama,08
+1501,6,Indiana,08
+1502,6,UMBC,08
+1503,6,Gonzaga,08
+1504,6,Clemson,08
+1505,6,Vanderbilt,08
+1506,6,Texas-Arlington,08
+1507,6,Austin Peay,08
+1508,6,"St. Mary's, California",08
+1509,6,Oregon,08
+1510,6,Drake,08
+1511,6,Connecticut,08
+1512,5,Notre Dame,08
+1513,5,Nevada-Las Vegas,08
+1514,5,Kansas State,08
+1515,5,Marquette,08
+1516,5,Pittsburgh,08
+1517,5,Texas A&M,08
+1518,5,Purdue,08
+1519,5,Duke,08
+1520,5,Arkansas,08
+1521,5,Butler,08
+1522,5,Oklahoma,08
+1523,5,Georgetown,08
+1524,5,Siena,08
+1525,5,Mississippi State,08
+1526,5,"Miami, Florida",08
+1527,5,San Diego,08
+1528,4,Washington State,08
+1529,4,Tennessee,08
+1530,4,Western Kentucky,08
+1531,4,West Virginia,08
+1532,4,Villanova,08
+1533,4,Wisconsin,08
+1534,4,Michigan State,08
+1535,4,Stanford,08
+1536,3,Louisville,08
+1537,3,"Xavier, Ohio",08
+1538,3,Davidson,08
+1539,3,Texas,08
+1540,2,North Carolina,08
+1541,2,UCLA,08
+1542,1,Memphis,08
+1543,0,Kansas,08
+1544,7,Alabama State,09
+1545,6,Binghamton,09
+1546,6,American,09
+1547,6,Virginia Commonwealth,09
+1548,6,Minnesota,09
+1549,6,Radford,09
+1550,6,Morgan State,09
+1551,6,Akron,09
+1552,6,Butler,09
+1553,6,Clemson,09
+1554,6,Illinois,09
+1555,6,Chattanooga,09
+1556,6,California State-Northridge,09
+1557,6,Mississippi State,09
+1558,6,Northern Iowa,09
+1559,6,Brigham Young,09
+1560,6,California,09
+1561,6,East Tennessee State,09
+1562,6,Portland State,09
+1563,6,Tennessee,09
+1564,6,Florida State,09
+1565,6,Morehead State,09
+1566,6,Robert Morris,09
+1567,6,North Dakota State,09
+1568,6,Ohio State,09
+1569,6,Boston College,09
+1570,6,West Virginia,09
+1571,6,Utah,09
+1572,6,Wake Forest,09
+1573,6,Stephen F. Austin,09
+1574,6,Temple,09
+1575,6,Cornell,09
+1576,6,Utah State,09
+1577,5,Texas,09
+1578,5,UCLA,09
+1579,5,Louisiana State,09
+1580,5,Michigan,09
+1581,5,Western Kentucky,09
+1582,5,Texas A&M,09
+1583,5,Maryland,09
+1584,5,Washington,09
+1585,5,Oklahoma State,09
+1586,5,Wisconsin,09
+1587,5,Siena,09
+1588,5,Southern California,09
+1589,5,Dayton,09
+1590,5,Cleveland State,09
+1591,5,Arizona State,09
+1592,5,Marquette,09
+1593,4,"Xavier, Ohio",09
+1594,4,Duke,09
+1595,4,Purdue,09
+1596,4,Memphis,09
+1597,4,Arizona,09
+1598,4,Kansas,09
+1599,4,Gonzaga,09
+1600,4,Syracuse,09
+1601,3,Pittsburgh,09
+1602,3,Missouri,09
+1603,3,Louisville,09
+1604,3,Oklahoma,09
+1605,2,Villanova,09
+1606,2,Connecticut,09
+1607,1,Michigan State,09
+1608,0,North Carolina,09
+1609,7,Winthrop,10
+1610,6,East Tennessee State,10
+1611,6,Montana,10
+1612,6,Texas,10
+1613,6,Marquette,10
+1614,6,Lehigh,10
+1615,6,San Diego State,10
+1616,6,Nevada-Las Vegas,10
+1617,6,Georgetown,10
+1618,6,Robert Morris,10
+1619,6,Sam Houston State,10
+1620,6,Richmond,10
+1621,6,Notre Dame,10
+1622,6,North Texas,10
+1623,6,Texas-El Paso,10
+1624,6,Florida,10
+1625,6,Vanderbilt,10
+1626,6,Morgan State,10
+1627,6,Wofford,10
+1628,6,Clemson,10
+1629,6,Temple,10
+1630,6,California-Santa Barbara,10
+1631,6,Houston,10
+1632,6,New Mexico State,10
+1633,6,Oklahoma State,10
+1634,6,Arkansas-Pine Bluff,10
+1635,6,Siena,10
+1636,6,Utah State,10
+1637,6,Louisville,10
+1638,6,Vermont,10
+1639,6,Oakland,10
+1640,6,Minnesota,10
+1641,6,Florida State,10
+1642,5,Wake Forest,10
+1643,5,New Mexico,10
+1644,5,Ohio,10
+1645,5,Kansas,10
+1646,5,Old Dominion,10
+1647,5,Villanova,10
+1648,5,Brigham Young,10
+1649,5,Murray State,10
+1650,5,Missouri,10
+1651,5,Wisconsin,10
+1652,5,Georgia Tech,10
+1653,5,Maryland,10
+1654,5,California,10
+1655,5,Texas A&M,10
+1656,5,Gonzaga,10
+1657,5,Pittsburgh,10
+1658,4,Cornell,10
+1659,4,Washington,10
+1660,4,"Xavier, Ohio",10
+1661,4,Syracuse,10
+1662,4,Northern Iowa,10
+1663,4,Ohio State,10
+1664,4,Purdue,10
+1665,4,"St. Mary's, California",10
+1666,3,Kentucky,10
+1667,3,Kansas State,10
+1668,3,Tennessee,10
+1669,3,Baylor,10
+1670,2,West Virginia,10
+1671,2,Michigan State,10
+1672,1,Butler,10
+1673,0,Duke,10
+1674,7,UAB,11
+1675,7,Arkansas-Little Rock,11
+1676,7,Alabama State,11
+1677,7,Southern California,11
+1678,6,Princeton,11
+1679,6,Clemson,11
+1680,6,North Carolina-Asheville,11
+1681,6,California-Santa Barbara,11
+1682,6,Wofford,11
+1683,6,Belmont,11
+1684,6,Utah State,11
+1685,6,Michigan State,11
+1686,6,Old Dominion,11
+1687,6,"St. John's, New York",11
+1688,6,Vanderbilt,11
+1689,6,Louisville,11
+1690,6,Northern Colorado,11
+1691,6,Bucknell,11
+1692,6,Missouri,11
+1693,6,Pennsylvania State,11
+1694,6,Texas-San Antonio,11
+1695,6,Long Island-Brooklyn,11
+1696,6,Indiana State,11
+1697,6,Georgia,11
+1698,6,Villanova,11
+1699,6,"Xavier, Ohio",11
+1700,6,Boston,11
+1701,6,Akron,11
+1702,6,St. Peter's,11
+1703,6,Nevada-Las Vegas,11
+1704,6,Texas A&M,11
+1705,6,Georgetown,11
+1706,6,Hampton,11
+1707,6,Oakland,11
+1708,6,Memphis,11
+1709,6,Tennessee,11
+1710,5,West Virginia,11
+1711,5,UCLA,11
+1712,5,Gonzaga,11
+1713,5,Kansas State,11
+1714,5,Pittsburgh,11
+1715,5,Morehead State,11
+1716,5,Temple,11
+1717,5,Cincinnati,11
+1718,5,George Mason,11
+1719,5,Washington,11
+1720,5,Syracuse,11
+1721,5,Illinois,11
+1722,5,Notre Dame,11
+1723,5,Purdue,11
+1724,5,Michigan,11
+1725,5,Texas,11
+1726,4,Brigham Young,11
+1727,4,Wisconsin,11
+1728,4,San Diego State,11
+1729,4,Duke,11
+1730,4,Marquette,11
+1731,4,Ohio State,11
+1732,4,Richmond,11
+1733,4,Florida State,11
+1734,3,Florida,11
+1735,3,Arizona,11
+1736,3,North Carolina,11
+1737,3,Kansas,11
+1738,2,Kentucky,11
+1739,2,Virginia Commonwealth,11
+1740,1,Butler,11
+1741,0,Connecticut,11
+1742,7,Mississippi Valley,12
+1743,7,Iona,12
+1744,7,California,12
+1745,7,Lamar,12
+1746,6,North Carolina-Asheville,12
+1747,6,"Loyola, Maryland",12
+1748,6,Montana,12
+1749,6,Harvard,12
+1750,6,West Virginia,12
+1751,6,Southern Mississippi,12
+1752,6,Western Kentucky,12
+1753,6,South Dakota State,12
+1754,6,New Mexico State,12
+1755,6,Connecticut,12
+1756,6,Nevada-Las Vegas,12
+1757,6,Wichita State,12
+1758,6,Brigham Young,12
+1759,6,Davidson,12
+1760,6,Long Beach State,12
+1761,6,Colorado State,12
+1762,6,St. Bonaventure,12
+1763,6,Texas,12
+1764,6,Vermont,12
+1765,6,Detroit,12
+1766,6,Belmont,12
+1767,6,Alabama,12
+1768,6,"St. Mary's, California",12
+1769,6,San Diego State,12
+1770,6,Temple,12
+1771,6,Michigan,12
+1772,6,Notre Dame,12
+1773,6,Duke,12
+1774,6,Long Island-Brooklyn,12
+1775,6,Virginia,12
+1776,6,Memphis,12
+1777,6,Missouri,12
+1778,5,Kansas State,12
+1779,5,Gonzaga,12
+1780,5,Vanderbilt,12
+1781,5,Iowa State,12
+1782,5,Colorado,12
+1783,5,Virginia Commonwealth,12
+1784,5,Murray State,12
+1785,5,New Mexico,12
+1786,5,Florida State,12
+1787,5,Creighton,12
+1788,5,Purdue,12
+1789,5,Georgetown,12
+1790,5,South Florida,12
+1791,5,Lehigh,12
+1792,5,St. Louis,12
+1793,5,Norfolk State,12
+1794,4,Wisconsin,12
+1795,4,Cincinnati,12
+1796,4,Michigan State,12
+1797,4,Marquette,12
+1798,4,Ohio,12
+1799,4,North Carolina State,12
+1800,4,Indiana,12
+1801,4,"Xavier, Ohio",12
+1802,3,Syracuse,12
+1803,3,Florida,12
+1804,3,North Carolina,12
+1805,3,Baylor,12
+1806,2,Louisville,12
+1807,2,Ohio State,12
+1808,1,Kansas,12
+1809,0,Kentucky,12
+1810,7,Middle Tennessee State,13
+1811,7,Liberty,13
+1812,7,Long Island-Brooklyn,13
+1813,7,Boise State,13
+1814,6,Davidson,13
+1815,6,Montana,13
+1816,6,Bucknell,13
+1817,6,Nevada-Las Vegas,13
+1818,6,North Carolina A&T,13
+1819,6,Valparaiso,13
+1820,6,New Mexico State,13
+1821,6,"St. Mary's, California",13
+1822,6,Missouri,13
+1823,6,Oklahoma State,13
+1824,6,South Dakota State,13
+1825,6,Akron,13
+1826,6,Southern,13
+1827,6,Belmont,13
+1828,6,Pittsburgh,13
+1829,6,New Mexico,13
+1830,6,James Madison,13
+1831,6,"Pacific, California",13
+1832,6,Colorado,13
+1833,6,North Carolina State,13
+1834,6,Albany,13
+1835,6,Cincinnati,13
+1836,6,Western Kentucky,13
+1837,6,Northwestern State,13
+1838,6,Oklahoma,13
+1839,6,Villanova,13
+1840,6,UCLA,13
+1841,6,Georgetown,13
+1842,6,Iona,13
+1843,6,Notre Dame,13
+1844,6,Wisconsin,13
+1845,6,Kansas State,13
+1846,5,Butler,13
+1847,5,California,13
+1848,5,Colorado State,13
+1849,5,Memphis,13
+1850,5,St. Louis,13
+1851,5,Virginia Commonwealth,13
+1852,5,Harvard,13
+1853,5,Gonzaga,13
+1854,5,Temple,13
+1855,5,Illinois,13
+1856,5,Creighton,13
+1857,5,North Carolina,13
+1858,5,Minnesota,13
+1859,5,San Diego State,13
+1860,5,Iowa State,13
+1861,5,Mississippi,13
+1862,4,"Miami, Florida",13
+1863,4,Indiana,13
+1864,4,Arizona,13
+1865,4,La Salle,13
+1866,4,Oregon,13
+1867,4,Michigan State,13
+1868,4,Florida Gulf Coast,13
+1869,4,Kansas,13
+1870,3,Marquette,13
+1871,3,Ohio State,13
+1872,3,Duke,13
+1873,3,Florida,13
+1874,2,Wichita State,13
+1875,2,Syracuse,13
+1876,1,Michigan,13
+1877,0,Louisville,13
+1878,7,"Xavier, Ohio",14
+1879,7,"Mt. St. Mary's, Maryland",14
+1880,7,Iowa,14
+1881,7,Texas Southern,14
+1882,6,Milwaukee,14
+1883,6,Delaware,14
+1884,6,"St. Joseph's, Pennsylvania",14
+1885,6,Cincinnati,14
+1886,6,Wofford,14
+1887,6,Manhattan,14
+1888,6,North Carolina State,14
+1889,6,Arizona State,14
+1890,6,Albany,14
+1891,6,Western Michigan,14
+1892,6,Colorado,14
+1893,6,Ohio State,14
+1894,6,American,14
+1895,6,New Mexico State,14
+1896,6,Brigham Young,14
+1897,6,Oklahoma,14
+1898,6,Coastal Carolina,14
+1899,6,North Carolina Central,14
+1900,6,Providence,14
+1901,6,George Washington,14
+1902,6,Cal Poly,14
+1903,6,Kansas State,14
+1904,6,Massachusetts,14
+1905,6,Duke,14
+1906,6,Eastern Kentucky,14
+1907,6,Tulsa,14
+1908,6,New Mexico,14
+1909,6,Virginia Commonwealth,14
+1910,6,Weber State,14
+1911,6,Louisiana-Lafayette,14
+1912,6,Nebraska,14
+1913,6,Oklahoma State,14
+1914,5,Harvard,14
+1915,5,Villanova,14
+1916,5,Texas,14
+1917,5,St. Louis,14
+1918,5,Pittsburgh,14
+1919,5,Syracuse,14
+1920,5,Oregon,14
+1921,5,North Dakota State,14
+1922,5,Memphis,14
+1923,5,North Carolina,14
+1924,5,Wichita State,14
+1925,5,Mercer,14
+1926,5,Stephen F. Austin,14
+1927,5,Kansas,14
+1928,5,Gonzaga,14
+1929,5,Creighton,14
+1930,4,UCLA,14
+1931,4,Stanford,14
+1932,4,San Diego State,14
+1933,4,Baylor,14
+1934,4,Virginia,14
+1935,4,Iowa State,14
+1936,4,Tennessee,14
+1937,4,Louisville,14
+1938,3,Dayton,14
+1939,3,Arizona,14
+1940,3,Michigan State,14
+1941,3,Michigan,14
+1942,2,Florida,14
+1943,2,Wisconsin,14
+1944,1,Kentucky,14
+1945,0,Connecticut,14
+1946,7,Manhattan,15
+1947,7,Brigham Young,15
+1948,7,Boise State,15
+1949,7,North Florida,15
+1950,6,Lafayette,15
+1951,6,Louisiana State,15
+1952,6,Hampton,15
+1953,6,Northeastern,15
+1954,6,Texas,15
+1955,6,Purdue,15
+1956,6,Eastern Washington,15
+1957,6,Stephen F. Austin,15
+1958,6,Southern Methodist,15
+1959,6,Iowa State,15
+1960,6,Texas Southern,15
+1961,6,Harvard,15
+1962,6,Wofford,15
+1963,6,Mississippi,15
+1964,6,Virginia Commonwealth,15
+1965,6,Baylor,15
+1966,6,Belmont,15
+1967,6,Albany,15
+1968,6,California-Irvine,15
+1969,6,Wyoming,15
+1970,6,Georgia,15
+1971,6,Providence,15
+1972,6,New Mexico State,15
+1973,6,Valparaiso,15
+1974,6,Buffalo,15
+1975,6,Indiana,15
+1976,6,Robert Morris,15
+1977,6,North Dakota State,15
+1978,6,Davidson,15
+1979,6,"St. John's, New York",15
+1980,6,Coastal Carolina,15
+1981,6,Oklahoma State,15
+1982,5,Villanova,15
+1983,5,Cincinnati,15
+1984,5,Butler,15
+1985,5,Georgetown,15
+1986,5,UAB,15
+1987,5,Ohio State,15
+1988,5,Arkansas,15
+1989,5,Georgia State,15
+1990,5,Dayton,15
+1991,5,Northern Iowa,15
+1992,5,Virginia,15
+1993,5,Maryland,15
+1994,5,Kansas,15
+1995,5,San Diego State,15
+1996,5,Iowa,15
+1997,5,Oregon,15
+1998,4,West Virginia,15
+1999,4,Wichita State,15
+2000,4,North Carolina,15
+2001,4,"Xavier, Ohio",15
+2002,4,North Carolina State,15
+2003,4,Oklahoma,15
+2004,4,Utah,15
+2005,4,UCLA,15
+2006,3,Notre Dame,15
+2007,3,Arizona,15
+2008,3,Louisville,15
+2009,3,Gonzaga,15
+2010,2,Michigan State,15
+2011,2,Kentucky,15
+2012,1,Wisconsin,15
+2013,0,Duke,15
+2014,7,Fairleigh Dickinson,16
+2015,7,Vanderbilt,16
+2016,7,Tulsa,16
+2017,7,Southern,16
+2018,6,Florida Gulf Coast,16
+2019,6,Stony Brook,16
+2020,6,Chattanooga,16
+2021,6,Southern California,16
+2022,6,Hampton,16
+2023,6,Fresno State,16
+2024,6,Iona,16
+2025,6,Texas Tech,16
+2026,6,Seton Hall,16
+2027,6,Purdue,16
+2028,6,Austin Peay,16
+2029,6,Buffalo,16
+2030,6,Colorado,16
+2031,6,Arizona,16
+2032,6,North Carolina-Wilmington,16
+2033,6,Baylor,16
+2034,6,Weber State,16
+2035,6,Michigan,16
+2036,6,Pittsburgh,16
+2037,6,West Virginia,16
+2038,6,Dayton,16
+2039,6,Michigan State,16
+2040,6,North Carolina-Asheville,16
+2041,6,South Dakota State,16
+2042,6,Temple,16
+2043,6,California,16
+2044,6,Holy Cross,16
+2045,6,California State-Bakersfield,16
+2046,6,Green Bay,16
+2047,6,Cincinnati,16
+2048,6,Oregon State,16
+2049,6,Texas,16
+2050,5,Providence,16
+2051,5,Kentucky,16
+2052,5,Butler,16
+2053,5,Arkansas-Little Rock,16
+2054,5,Utah,16
+2055,5,Connecticut,16
+2056,5,Wichita State,16
+2057,5,Yale,16
+2058,5,Stephen F. Austin,16
+2059,5,"Xavier, Ohio",16
+2060,5,Middle Tennessee State,16
+2061,5,Iowa,16
+2062,5,Hawaii,16
+2063,5,"St. Joseph's, Pennsylvania",16
+2064,5,Virginia Commonwealth,16
+2065,5,Northern Iowa,16
+2066,4,Maryland,16
+2067,4,"Miami, Florida",16
+2068,4,Duke,16
+2069,4,Texas A&M,16
+2070,4,Indiana,16
+2071,4,Wisconsin,16
+2072,4,Iowa State,16
+2073,4,Gonzaga,16
+2074,3,Kansas,16
+2075,3,Oregon,16
+2076,3,Notre Dame,16
+2077,3,Virginia,16
+2078,2,Syracuse,16
+2079,2,Oklahoma,16
+2080,1,North Carolina,16
+2081,0,Villanova,16
